@@ -1,38 +1,47 @@
-# create-svelte
+# Assisto
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Your Sales Assistant (Made for ODE to Code Hackthon)
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Running
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Download PocketBase and extract the binary file into the back folder
+In a terminal/CMD, run the pocketbase binary as
 
-# create a new project in my-app
-npm create svelte@latest my-app
+```bash 
+#Linux/MacOS
+./pocketbase serve
+
+#Windows
+.\pocketbase serve
 ```
+Assuming Node is installed, go to the root workspace directory
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
+```bash 
 npm run dev -- --open
 ```
 
-## Building
 
-To create a production version of your app:
+## Building
 
 ```bash
 npm run build
 ```
 
 You can preview the production build with `npm run preview`.
+## Development Time
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+First ever Web Project Made by GreySkale Team
+
+Designs made by [Chandra Rajesh](https://github.com/chandrancodes)
+Research on Project [Jesnamol Varghese](https://github.com/jesnamol-varghese) and [Deepak M R](https://github.com/WizCreative?tab=overview&from=2024-07-01&to=2024-07-16)
+
+
+### This project helped us to 
+understand basic teamworking
+ui design (Even tho , couldn't apply it)
+sveltekit and basics of a web application
+
+Made in 24 Hours.
+Made with Sveltekit + PocketBase + Tailwind
+Made by GreySkale

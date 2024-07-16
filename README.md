@@ -43,5 +43,5 @@ Research on Project [Jesnamol Varghese](https://github.com/jesnamol-varghese) an
 ```
 Made in 24 Hours.
 Made with Sveltekit + PocketBase + Tailwind
-```
 Made by GreySkale
+```
